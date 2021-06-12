@@ -1,0 +1,13 @@
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\bin\Debug\netcoreapp3.1\MyConsoleBank.exe
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\bin\Debug\netcoreapp3.1\MyConsoleBank.deps.json
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\bin\Debug\netcoreapp3.1\MyConsoleBank.runtimeconfig.json
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\bin\Debug\netcoreapp3.1\MyConsoleBank.runtimeconfig.dev.json
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\bin\Debug\netcoreapp3.1\MyConsoleBank.dll
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\bin\Debug\netcoreapp3.1\MyConsoleBank.pdb
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\obj\Debug\netcoreapp3.1\MyConsoleBank.csprojAssemblyReference.cache
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\obj\Debug\netcoreapp3.1\MyConsoleBank.AssemblyInfoInputs.cache
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\obj\Debug\netcoreapp3.1\MyConsoleBank.AssemblyInfo.cs
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\obj\Debug\netcoreapp3.1\MyConsoleBank.csproj.CoreCompileInputs.cache
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\obj\Debug\netcoreapp3.1\MyConsoleBank.dll
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\obj\Debug\netcoreapp3.1\MyConsoleBank.pdb
+C:\Users\manoj\source\repos\MyConsoleBank\MyConsoleBank\obj\Debug\netcoreapp3.1\MyConsoleBank.genruntimeconfig.cache
