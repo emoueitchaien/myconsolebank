@@ -6,7 +6,7 @@ namespace MyConsoleBank
     {
         static void Main(string[] args)
         {
-            var account = new Account("Mohan", 10000);
+            var account = new Account("Mohan Pradhan", 10000);
             Console.WriteLine($"Account {account.number} created for {account.owner} with balance ${account.balance}");
 
             account.MakeDeposit(2000, DateTime.Now, "Deposit 2");
